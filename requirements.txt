@@ -13,5 +13,5 @@ Jinja2==3.0.2
 MarkupSafe==2.0.1
 python-dotenv==0.19.1
 SQLAlchemy==1.4.25
-Werkzeug==2.0.2
+Werkzeug==2.2.3
 WTForms==2.3.3
